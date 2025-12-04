@@ -18,3 +18,16 @@ const searchtext = "ro"
 
 const searchresult = users.filter((user)=> user.name.toLowerCase().includes(searchtext.toLowerCase()));
 console.log(searchresult);
+
+
+
+
+function dynamicfilters(searchtext){
+    return users.filter((user)=> user.name.toLowerCase().includes(searchtext.toLowerCase()) )
+}
+
+// console.log(dynamicfilters("r"));
+// console.log(dynamicfilters("ro"));
+// console.log(dynamicfilters("ma"));
+// console.log(dynamicfilters("pr"));
+// console.log(dynamicfilters("na"));
