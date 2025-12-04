@@ -10,6 +10,11 @@ const users = [
 // const ordereduser = users.sort((a,b)=> a.name.localeCompare(b.name))
 // console.log(ordereduser)
 
-const notactiveusers= users.filter((user)=> user.role === "Engineer" && user.active === true).sort((a,b)=> b.name.localeCompare(a.name))
+const searchtext = "ro"
 
-console.log(notactiveusers);
+// const notactiveusers= users.filter((user)=> user.role === "Engineer" && user.active === true).sort((a,b)=> b.name.localeCompare(a.name))
+// console.log(notactiveusers);
+
+
+const searchresult = users.filter((user)=> user.name.toLowerCase().includes(searchtext.toLowerCase()));
+console.log(searchresult);
