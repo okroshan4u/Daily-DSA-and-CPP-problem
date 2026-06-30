@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main(){
     int n ;
     int i = 1;
@@ -18,4 +19,3 @@ int main(){
     }
 
     return 0;
-}
