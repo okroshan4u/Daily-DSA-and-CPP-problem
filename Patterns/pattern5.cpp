@@ -20,7 +20,7 @@ int main(){
     //     i++;
     // }
 
-    // 
+    // or
 
     while(i<=n){
         int j =  1;
