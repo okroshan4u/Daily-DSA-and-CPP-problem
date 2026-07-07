@@ -23,7 +23,7 @@ int main(){
     // cout<<char(65)<<endl;
 
 
-    // or
+    // 
 
     while(i<=n){
         int j = 1;
