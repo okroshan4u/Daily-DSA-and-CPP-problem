@@ -6,7 +6,7 @@ int main (){
     int i = 1;
     int count = 1;
     cout<<"Enter the value of n: "<<endl;
-    cin>>n;
+    cin>>n
 
     while(i<=n){
 
