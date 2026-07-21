@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program onlin
+// Online C++ compiler to run C++ program onli
 #include <iostream>
 using namespace std;
 
