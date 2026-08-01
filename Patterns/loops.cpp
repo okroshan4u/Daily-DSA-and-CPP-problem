@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-// sum to first n numbe
+// sum to first n numbers
     // int n ;
     // cin>>n;
     // int sum = 0;
