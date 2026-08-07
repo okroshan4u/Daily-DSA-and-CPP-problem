@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ program online
+// Online C++ compiler to run C++ program onli
 #include <iostream>
 using namespace std;
 int reverse(int arr[], int size){
