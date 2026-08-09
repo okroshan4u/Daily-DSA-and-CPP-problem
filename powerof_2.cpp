@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std
 
 bool powerof2(int n){
     int count = 0;
