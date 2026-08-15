@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std
+using namespace std;
 
 int sumArray(int arr[], int size){
     int sum = 0;
