@@ -1,4 +1,3 @@
-# Write your MySQL
 select e1.name  from
 Employee as e1 
 join Employee as e2
