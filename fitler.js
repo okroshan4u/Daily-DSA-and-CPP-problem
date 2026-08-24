@@ -1,4 +1,3 @@
-//  
 
 const users =[
   { name: "Roshan", role: "Engineer", active: true },
