@@ -45,7 +45,7 @@ int lastOccurance(int arr[], int size , int key){
 
 
 int main() {
-// your code goes here
+// your code goes 
 int arr[] = {1,2,3,4,4,5,6};
 
 cout<<firstOccurance(arr, 8,4)<<" ";
