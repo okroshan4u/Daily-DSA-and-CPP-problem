@@ -1,4 +1,4 @@
-// LRU implementation
+// LRU implemen
 
 class LRUcache{
     constructor (capacity){
