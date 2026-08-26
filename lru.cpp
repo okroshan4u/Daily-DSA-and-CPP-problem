@@ -1,4 +1,4 @@
-// LRU implemen
+// LRU imple
 
 class LRUcache{
     constructor (capacity){
