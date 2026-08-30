@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-//
+// Implementation
 
 int firstOccurance(int arr[], int size , int key){
     int s = 0;
