@@ -49,6 +49,7 @@ int search(vector<int>& arr, int n, int k)
         return binarySearch(arr, pivot, n-1, k);
     }
     else{
+        // BS on 1st line
         return binarySearch(arr, 0 , pivot - 1, k);
     }
 }
