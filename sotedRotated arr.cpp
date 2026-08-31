@@ -44,7 +44,7 @@ int binarySearch(vector<int>& arr, int start, int end , int key){
 int search(vector<int>& arr, int n, int k)
 {
     int pivot = getPivot(arr, n);
-
+    // BS on 2nd line
     if(k>= arr[pivot] && k <= arr[n-1]){
         return binarySearch(arr, pivot, n-1, k);
     }
