@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# Write your MySQL query statement belo
 -- select a1.machine_id , Round(Avg(a2.timestamp-a1.timestamp),3) as processing_time 
 -- from Activity a1
 -- inner join Activity a2
