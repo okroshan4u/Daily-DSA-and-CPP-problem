@@ -1,4 +1,4 @@
-// Online C++ compiler to run C++ 
+// Online C++
 #include <iostream>
 using namespace std;
 
